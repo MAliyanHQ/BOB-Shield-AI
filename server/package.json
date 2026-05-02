@@ -1,0 +1,26 @@
+{
+  "name": "bobshield-server",
+  "version": "2.0.0",
+  "description": "BobShield AI - Professional Code Health Scanner",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "code-analysis",
+    "github",
+    "code-quality",
+    "security-scanner"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "simple-git": "^3.22.0",
+    "uuid": "^14.0.0"
+  }
+}

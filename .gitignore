@@ -1,0 +1,71 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Temporary files
+temp-repos/
+*.tmp
+*.temp
+
+# Build outputs
+dist/
+build/
+out/
+.next/
+.nuxt/
+coverage/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Testing
+.nyc_output/
+coverage/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Package manager locks (keep package-lock.json for consistency)
+# Uncomment if you prefer to ignore them
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# Production
+*.tgz
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local development
+.cache/
+.parcel-cache/
+.vite/
+
+# Misc
+.eslintcache
+.stylelintcache
+
+# Made with Bob

@@ -1,0 +1,19 @@
+{
+  "name": "bobshield-ai",
+  "version": "1.0.0",
+  "description": "BobShield AI - From Broken Code to Deployment-Ready Software",
+  "scripts": {
+    "install-all": "cd server && npm install && cd ../client && npm install && cd ../sample-projects/broken-task-manager && npm install",
+    "server": "cd server && npm start",
+    "client": "cd client && npm run dev",
+    "dev": "echo 'Run npm run server in one terminal and npm run client in another terminal'"
+  },
+  "keywords": [
+    "code-scanner",
+    "code-quality",
+    "ibm-bob",
+    "deployment-ready"
+  ],
+  "author": "",
+  "license": "MIT"
+}
