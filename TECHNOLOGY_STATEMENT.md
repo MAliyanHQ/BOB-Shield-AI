@@ -10,7 +10,7 @@ IBM Bob was integral to the development and functionality of BobShield AI. Our t
 
 - **Architecture Design**: Bob helped design the full-stack architecture, recommending the separation of concerns between the React frontend and Express backend, and suggesting the use of simple-git for repository cloning.
 
-- **Code Implementation**: Every major feature—from the GitHub repository scanner to the PDF export functionality—was developed with Bob's assistance. Bob wrote approximately 90% of the codebase, including:
+- **Code Implementation**: Every major feature, from the GitHub repository scanner to the PDF export functionality, was developed with Bob's assistance. Bob wrote approximately 90% of the codebase, including:
   - Backend API endpoints for repository analysis
   - Frontend React components with glass morphism UI
   - Security scanning algorithms using regex patterns
@@ -134,7 +134,7 @@ While BobShield AI currently focuses on IBM Bob integration, we have identified 
 
 ## Why This Approach Works
 
-**Bob as Developer**: Using Bob to build BobShield demonstrates the power of AI-assisted development—we practiced what we preach.
+**Bob as Developer**: Using Bob to build BobShield demonstrates the power of AI-assisted development, we practiced what we preach.
 
 **Bob as Product Feature**: Integrating Bob into the product creates a complete solution: identify problems (BobShield) → fix problems (Bob).
 
@@ -142,6 +142,6 @@ While BobShield AI currently focuses on IBM Bob integration, we have identified 
 
 ## Conclusion
 
-IBM Bob is not just a tool we used—it's the foundation of BobShield AI. Bob built the product, and the product extends Bob's capabilities to every developer who needs to improve their code quality. This symbiotic relationship between BobShield and Bob creates a powerful ecosystem for automated code improvement.
+IBM Bob is not just a tool we used, it's the foundation of BobShield AI. Bob built the product, and the product extends Bob's capabilities to every developer who needs to improve their code quality. This symbiotic relationship between BobShield and Bob creates a powerful ecosystem for automated code improvement.
 
 **BobShield AI: Built by Bob, for Bob, with Bob.**
